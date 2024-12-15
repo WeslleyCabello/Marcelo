@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 561628208a586e64f8607b3e5c44d44f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5205865982761140111
+    second: Tile_Sets_Super_Mario_Bros_mod_0
+  - first:
+      213: -2411029205753956482
+    second: Tile_Sets_Super_Mario_Bros_mod_1
+  - first:
+      213: 4735367545487446387
+    second: Tile_Sets_Super_Mario_Bros_mod_2
+  - first:
+      213: -1872167434873005444
+    second: Tile_Sets_Super_Mario_Bros_mod_3
+  - first:
+      213: 8912433464510441268
+    second: Tile_Sets_Super_Mario_Bros_mod_4
+  - first:
+      213: -4490479148579067355
+    second: Tile_Sets_Super_Mario_Bros_mod_5
+  - first:
+      213: 5308696171244476926
+    second: Tile_Sets_Super_Mario_Bros_mod_6
+  - first:
+      213: -5947017864380948882
+    second: Tile_Sets_Super_Mario_Bros_mod_7
+  - first:
+      213: 6970157600861752424
+    second: Tile_Sets_Super_Mario_Bros_mod_8
+  - first:
+      213: 405159032273453493
+    second: Tile_Sets_Super_Mario_Bros_mod_9
+  - first:
+      213: -5872814570396030448
+    second: Tile_Sets_Super_Mario_Bros_mod_10
+  - first:
+      213: -8641240039615556892
+    second: Tile_Sets_Super_Mario_Bros_mod_11
+  - first:
+      213: -1254351958323232906
+    second: Tile_Sets_Super_Mario_Bros_mod_12
+  - first:
+      213: -5957793494486936021
+    second: Tile_Sets_Super_Mario_Bros_mod_13
+  - first:
+      213: 5302903051418636510
+    second: Tile_Sets_Super_Mario_Bros_mod_14
+  - first:
+      213: 235444174193221691
+    second: Tile_Sets_Super_Mario_Bros_mod_15
+  - first:
+      213: -1453782191835661737
+    second: Tile_Sets_Super_Mario_Bros_mod_16
+  - first:
+      213: 7971573055962086230
+    second: Tile_Sets_Super_Mario_Bros_mod_17
+  - first:
+      213: 7750255986045085189
+    second: Tile_Sets_Super_Mario_Bros_mod_18
+  - first:
+      213: -2745872826385719487
+    second: Tile_Sets_Super_Mario_Bros_mod_19
+  - first:
+      213: -7657895473435880661
+    second: Tile_Sets_Super_Mario_Bros_mod_20
+  - first:
+      213: -3376399724610894353
+    second: Tile_Sets_Super_Mario_Bros_mod_21
+  - first:
+      213: -2901104845889354516
+    second: Tile_Sets_Super_Mario_Bros_mod_22
+  - first:
+      213: 5035679316776111351
+    second: Tile_Sets_Super_Mario_Bros_mod_23
+  - first:
+      213: -1700380926858618402
+    second: Tile_Sets_Super_Mario_Bros_mod_24
+  - first:
+      213: 3238713333464402336
+    second: Tile_Sets_Super_Mario_Bros_mod_25
+  - first:
+      213: 5144809362454261306
+    second: Tile_Sets_Super_Mario_Bros_mod_26
+  - first:
+      213: -6236701746821684538
+    second: Tile_Sets_Super_Mario_Bros_mod_27
+  - first:
+      213: -158834227560657603
+    second: Tile_Sets_Super_Mario_Bros_mod_28
+  - first:
+      213: 5705213050815441689
+    second: Tile_Sets_Super_Mario_Bros_mod_29
+  - first:
+      213: 3430913282232767856
+    second: Tile_Sets_Super_Mario_Bros_mod_30
+  - first:
+      213: 4561655526987388765
+    second: Tile_Sets_Super_Mario_Bros_mod_31
+  - first:
+      213: -673533631652586336
+    second: Tile_Sets_Super_Mario_Bros_mod_32
+  - first:
+      213: -8569852429349112877
+    second: Tile_Sets_Super_Mario_Bros_mod_33
+  - first:
+      213: 5267467210744951212
+    second: Tile_Sets_Super_Mario_Bros_mod_34
+  - first:
+      213: -4989017970367072997
+    second: Tile_Sets_Super_Mario_Bros_mod_35
+  - first:
+      213: -8882216422281532083
+    second: Tile_Sets_Super_Mario_Bros_mod_36
+  - first:
+      213: -6649286275007998402
+    second: Tile_Sets_Super_Mario_Bros_mod_37
+  - first:
+      213: -4301159988920753422
+    second: Tile_Sets_Super_Mario_Bros_mod_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ground
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1708b35787c01c7b0800000000000000
+      internalID: -5205865982761140111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7771f726bd4a8ed0800000000000000
+      internalID: -2411029205753956482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 159
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37151bd81b767b140800000000000000
+      internalID: 4735367545487446387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 159
+        width: 210
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a175c13a9b406e0800000000000000
+      internalID: -1872167434873005444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 146
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437e27014035fab70800000000000000
+      internalID: 8912433464510441268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 131
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a65a5810d9ea1c0800000000000000
+      internalID: -4490479148579067355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 143
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9d0838a074ca940800000000000000
+      internalID: 5308696171244476926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 127
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6edba0d2c2f77da0800000000000000
+      internalID: -5947017864380948882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 87
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c8ad39869fab060800000000000000
+      internalID: 6970157600861752424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 87
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b143344ef96f9500800000000000000
+      internalID: 405159032273453493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_10
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 87
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a6ec383429f7ea0800000000000000
+      internalID: -5872814570396030448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 87
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e215db97f5241880800000000000000
+      internalID: -8641240039615556892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 87
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ff3dc2a85a79ee0800000000000000
+      internalID: -1254351958323232906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 87
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2619fbe16aa15da0800000000000000
+      internalID: -5957793494486936021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 119
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed09422ba32b79940800000000000000
+      internalID: 5302903051418636510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 95
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30e83f9a37744300800000000000000
+      internalID: 235444174193221691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ab8da8cc023dbe0800000000000000
+      internalID: -1453782191835661737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 87
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bf1bd8577b0ae60800000000000000
+      internalID: 7971573055962086230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_18
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 107
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506ef86b1c07e8b60800000000000000
+      internalID: 7750255986045085189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_19
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f91e07633b4e9d0800000000000000
+      internalID: -2745872826385719487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 107
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2358c2e3a0b9b590800000000000000
+      internalID: -7657895473435880661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_21
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe547d2e65e9421d0800000000000000
+      internalID: -3376399724610894353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_22
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 107
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4c99c63843db7d0800000000000000
+      internalID: -2901104845889354516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_23
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 91
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fcc83f88a352e540800000000000000
+      internalID: 5035679316776111351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed91eb75e880768e0800000000000000
+      internalID: -1700380926858618402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9877a0e9832fc20800000000000000
+      internalID: 3238713333464402336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_26
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 55
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ea0365bd8066740800000000000000
+      internalID: 5144809362454261306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_27
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 75
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2a2a20ec8c279a0800000000000000
+      internalID: -6236701746821684538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_28
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 75
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dc2109c15bbcdf0800000000000000
+      internalID: -158834227560657603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_29
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 75
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be6cdca0dfc2f40800000000000000
+      internalID: 5705213050815441689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_30
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 55
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07557a2d37d0d9f20800000000000000
+      internalID: 3430913282232767856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 55
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57d7c978814e4f30800000000000000
+      internalID: 4561655526987388765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 55
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac91150bb027a6f0800000000000000
+      internalID: -673533631652586336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_33
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 7
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3b02bde94c11980800000000000000
+      internalID: -8569852429349112877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1787a158dc91940800000000000000
+      internalID: 5267467210744951212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15fa32c69273cab0800000000000000
+      internalID: -4989017970367072997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_36
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da4c359370cb480800000000000000
+      internalID: -8882216422281532083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_37
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 75
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e369440cc5df8b3a0800000000000000
+      internalID: -6649286275007998402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tile_Sets_Super_Mario_Bros_mod_38
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 15
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2614257c53f44c0800000000000000
+      internalID: -4301159988920753422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2239fa850fedb0d4297bc552c9b30f86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tile_Sets_Super_Mario_Bros_mod_1: -2411029205753956482
+      Tile_Sets_Super_Mario_Bros_mod_10: -5872814570396030448
+      Tile_Sets_Super_Mario_Bros_mod_11: -8641240039615556892
+      Tile_Sets_Super_Mario_Bros_mod_12: -1254351958323232906
+      Tile_Sets_Super_Mario_Bros_mod_13: -5957793494486936021
+      Tile_Sets_Super_Mario_Bros_mod_14: 5302903051418636510
+      Tile_Sets_Super_Mario_Bros_mod_15: 235444174193221691
+      Tile_Sets_Super_Mario_Bros_mod_16: -1453782191835661737
+      Tile_Sets_Super_Mario_Bros_mod_17: 7971573055962086230
+      Tile_Sets_Super_Mario_Bros_mod_18: 7750255986045085189
+      Tile_Sets_Super_Mario_Bros_mod_19: -2745872826385719487
+      Tile_Sets_Super_Mario_Bros_mod_2: 4735367545487446387
+      Tile_Sets_Super_Mario_Bros_mod_20: -7657895473435880661
+      Tile_Sets_Super_Mario_Bros_mod_21: -3376399724610894353
+      Tile_Sets_Super_Mario_Bros_mod_22: -2901104845889354516
+      Tile_Sets_Super_Mario_Bros_mod_23: 5035679316776111351
+      Tile_Sets_Super_Mario_Bros_mod_24: -1700380926858618402
+      Tile_Sets_Super_Mario_Bros_mod_25: 3238713333464402336
+      Tile_Sets_Super_Mario_Bros_mod_26: 5144809362454261306
+      Tile_Sets_Super_Mario_Bros_mod_27: -6236701746821684538
+      Tile_Sets_Super_Mario_Bros_mod_28: -158834227560657603
+      Tile_Sets_Super_Mario_Bros_mod_29: 5705213050815441689
+      Tile_Sets_Super_Mario_Bros_mod_3: -1872167434873005444
+      Tile_Sets_Super_Mario_Bros_mod_30: 3430913282232767856
+      Tile_Sets_Super_Mario_Bros_mod_31: 4561655526987388765
+      Tile_Sets_Super_Mario_Bros_mod_32: -673533631652586336
+      Tile_Sets_Super_Mario_Bros_mod_33: -8569852429349112877
+      Tile_Sets_Super_Mario_Bros_mod_34: 5267467210744951212
+      Tile_Sets_Super_Mario_Bros_mod_35: -4989017970367072997
+      Tile_Sets_Super_Mario_Bros_mod_36: -8882216422281532083
+      Tile_Sets_Super_Mario_Bros_mod_37: -6649286275007998402
+      Tile_Sets_Super_Mario_Bros_mod_38: -4301159988920753422
+      Tile_Sets_Super_Mario_Bros_mod_4: 8912433464510441268
+      Tile_Sets_Super_Mario_Bros_mod_5: -4490479148579067355
+      Tile_Sets_Super_Mario_Bros_mod_6: 5308696171244476926
+      Tile_Sets_Super_Mario_Bros_mod_7: -5947017864380948882
+      Tile_Sets_Super_Mario_Bros_mod_8: 6970157600861752424
+      Tile_Sets_Super_Mario_Bros_mod_9: 405159032273453493
+      ground: -5205865982761140111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
